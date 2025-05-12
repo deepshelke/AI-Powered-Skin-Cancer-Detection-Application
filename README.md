@@ -2,7 +2,7 @@
 
 This project presents an end-to-end solution for early **melanoma detection** using deep learning. It involves building and deploying multiple Convolutional Neural Network (CNN) models, with frontend web apps for clinical usability.
 
-> 🖥️ **Watch the full demo video:** [![Watch the demo](https://img.youtube.com/vi/ItBdj1BTflo/maxresdefault.jpg)](https://youtu.be/ItBdj1BTflo)
+> 🖥️ **Watch the full demo video:**(https://img.youtube.com/vi/ItBdj1BTflo/maxresdefault.jpg)](https://youtu.be/ItBdj1BTflo)
 
 ---
 
