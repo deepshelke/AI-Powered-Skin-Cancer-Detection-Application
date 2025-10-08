@@ -25,17 +25,6 @@ We built and evaluated CNN-based models with and without **hair removal preproce
 - 🌐 Deployment: Flask-based web & mobile apps
 - 🎨 UI: Clean, modern interface built with HTML/CSS
 
----
-
-## 📹 Demo Video
-
-👉 [Insert YouTube / Google Drive link here]
-
-The video walks through:
-- Data preparation
-- Model training
-- App usage (web interface for predictions)
-- Result interpretation
 
 ---
 
